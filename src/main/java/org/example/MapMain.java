@@ -15,9 +15,10 @@ public class MapMain{
         thingsMap.put("トマト","野菜");
         thingsMap.put("レモン","果物");
         thingsMap.put("メロン","野菜");
+        thingsMap.put("アロエ","野菜");
 
         System.out.println(thingsMap.get("ミカン"));
         System.out.println(thingsMap.get("トマト"));
-        System.out.println(thingsMap.get("イチゴ"));
+        System.out.println(thingsMap.get("メロン"));
     }
 }
